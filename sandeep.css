@@ -1,0 +1,120 @@
+/* id-One navbar & row  */
+#One{
+ background-color: #00B7A8;
+    color:#fff;
+}
+#textcolor{
+  color:#fff;
+}
+.part-2{
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+.part-1{
+  margin-top: 85px;
+  margin-bottom: 80px;
+}
+.navbrand{
+  font-size: 25px;
+}
+nav{
+  background-color: #343A40;
+  padding-bottom: 5px;
+}
+i{
+padding-right: 5px;
+}
+.list-items{
+  padding-right: 25px;
+}
+h1{
+  text-align: center;
+  font-family: 'Otomanopee One', sans-serif;
+}
+h3{
+  padding-left: 30px;
+  line-height:1.6;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.title-image{
+  height:350px;
+  width:400px;
+  margin-left: 150px;
+}
+/* skills-section */
+.skill-heading{
+height: 60px;
+}
+.skills-img{
+  position: absolute;
+  left: 90%;
+  top: 95%;
+}
+.skills-div h1{
+  padding-top: 5px;
+  padding-left: 5px;
+  font-family: 'Otomanopee One', sans-serif;
+}
+.skills-row{
+  padding-top: 65px;
+}
+.cf{
+  width: 90%;
+  font-size: 20px;
+}
+#skill-hide
+{
+  display: none;
+}
+/* education-part */
+#Education{
+  height:400px;
+  background-color: #00B7A8;
+}
+#Education h1{
+  font-family: 'Otomanopee One', sans-serif;
+  color: white;
+  padding-top: 20px;
+}
+#Education h3{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+#Education .item{
+  padding-top: 80px;
+  text-align:center;
+}
+/* projects-section */
+.project-card{
+  height: 400px;
+  border-right:1px solid;
+  text-align: center;
+}
+.project-card h1{
+  font-family: 'Ubuntu', sans-serif;
+}
+#Three img{
+  height: 250px;
+  width: 300px;
+  }
+  #Three{
+    padding-bottom: 50px;
+  }
+/* contact-section   */
+#Contact-me{
+  height: 150px;
+  text-align: center;
+  background-color: #343A40;
+}
+#Contact-me button{
+  margin-top: 25px;
+  margin-left: 25px;
+}
+#Contact-me p{
+color: white;
+}
+#Contact-me i{
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
